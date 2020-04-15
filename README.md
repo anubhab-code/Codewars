@@ -1,2 +1,2 @@
 # Codewars
- Solution to Katas written using Python language.
+###Solution to Katas written using Python language.
