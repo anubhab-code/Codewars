@@ -11,5 +11,5 @@ I will be posting solution to katas in Codewars using Python3 language here.
  Honor: 4,993\
  Leaderboard Position: #854\
  Honor Percentile: Top 0.376%\
- Total Completed Kata: 1,008\
+ Total Completed Kata: 1,008
 
